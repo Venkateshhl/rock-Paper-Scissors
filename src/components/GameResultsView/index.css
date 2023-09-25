@@ -1,0 +1,15 @@
+.result-button {
+  width: 100px;
+  height: 30px;
+  padding: 15px;
+  color: #223a5f;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border-style: none;
+  outline: none;
+}
+

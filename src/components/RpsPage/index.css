@@ -1,0 +1,26 @@
+.trigger-button {
+  width: 70px;
+  height: 30px;
+  padding: 20px;
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border-style: none;
+  outline: none;
+}
+
+.trigger-button-close {
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  border-style: none;
+  outline: none;
+  align-self: flex-end;
+  margin-bottom: 6px;
+}
